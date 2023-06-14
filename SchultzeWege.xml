@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="l194">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main"/>
+            <author>
+               <persName ref="https://d-nb.info/gnd/117223107">
+                  <surname>Schultze-Wege</surname>
+                  <forename>Johanna</forename>
+               </persName>
+            </author>
+            <editor>
+               <persName>
+                  <surname>Dogunke</surname>
+                  <forename>Swantje</forename>
+               </persName>
+            </editor>
+           
+            <respStmt>
+               <orgName>Thüringer Universitäts- und Landesbibliothek Jena</orgName> 
+               <resp>
+                  <note type="remarkResponsibility">Herausgeber</note>
+                  <persName>
+                     <surname>Dogunke</surname>
+                     <forename>Swantje</forename>
+                  </persName>
+                 
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition> ausgewählte Briefe </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               
+               <orgName role="hostingInstitution" xml:lang="deu">Thüringer Universitäts- und Landesbibliothek Jena</orgName>
+            </publisher>
+            
+            <pubPlace>Jena</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <p>Distributed under the Creative Commons License
+                     Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</p>
+               </licence>
+            </availability>
+            <idno>
+               <idno type="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00020240"/>
+            </idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="remarkSource">[ggf. Kommentar zur zugrundeliegenden Ausgabe]</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="MAN">Brief von Johanna Schultze-Wege</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="m" type="main">Brief von Johanna Schultze-Wege</title>
+                  <author>
+                     <persName ref="https://d-nb.info/gnd/117223107">
+                        <surname>Schultze-Wege</surname>
+                        <forename>Johanna</forename>
+                     </persName>
+                     
+                  </author>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">2 beschriebene Seiten</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher/>
+                  <pubPlace>Weimar</pubPlace>
+                  <date type="creation">19010119</date>
+               </publicationStmt>
+               
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Thüringer Universitäts- und Landesbibliothek Jena</repository>
+                  <idno>
+                     <idno type="shelfmark">HisBest_cbu_00020240</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc>
+                  
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p> &lt;p&gt;Dieses Werk wurde in XML/TEI P5 nach &lt;a
+               href="http://www.deutschestextarchiv.de/doku/basisformat"&gt;DTA-Basisformat&lt;/a&gt;
+               kodiert.&lt;/p&gt; </p>
+         </editorialDecl>
+         <tagsDecl/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu">German</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main"
+               >Gebrauchsliteratur</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub"
+               >Brief</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            Weimar, Junkerstr 45
+            <lb/>19/1901
+            <lb/>Sehr geehrter Herr!
+            <lb/>Herzlichen Dank sage ich Ihren, auch
+            <lb/>von meinem lieben Manne, für Ihre
+            <lb/>freundlichen Wünsche zum neuen
+            <lb/>Jahre, die wir von Herzen erwidern.
+            <lb/>Den Brief von Herrn Professor Mag‐
+            <lb/>nus, den Sie die Güte hatten, mir
+            <lb/>zu übersenden, hätten wir Ihnen
+            <lb/>am liebsten selbst zurückgebracht,
+            
+            <lb/>aber die Kälte war doch gar zu
+            <lb/>arg, und jetzt wo sie nachläßst, sind
+            <lb/>wir leider so erkältet, dass wir uns
+            <lb/>auch nicht sehr herauswagen können.
+            <lb/>Um nun die Rückgabe nicht noch
+            <lb/>länger zu verzögern, will ich
+            <lb/>Ihnen lieber hiermit den Brief
+            <lb/>zuschicken.
+            
+            <pb/>
+            
+            <lb/>Heut schicke ich auch an Herrn Professor
+            <lb/>Magnus das Gewünschte ab, daß ich
+            <lb/>so gut ich konnte ausgeführt habe. Von
+            <lb/>Pol. australis konnte ich nur die Beschrei‐
+            <lb/>bung nach Fries dazufügen, weil die
+            <lb/>nur von Ihnen freundlichst überlasse‐
+            <lb/>nen Braken sich auf der Tour so
+            <lb/>zervielen halen, das nur noch ein
+            <lb/>gar Stückchen Rinde übrig waren.
+            <lb/>Mit den besten Grüßen von uns
+            <lb/>beiden für Sie und Ihre liebe Frau
+            <lb/>Gemalin verbleibe ich
+            <lb/>hochachtungsvoll
+            <lb/>Johanna Schultze Wege
+            
+            
+         </p>
+      </body>
+   </text>
+</TEI>
