@@ -7,4 +7,5 @@ Text in *kursiv*, in **fett** und in ***unterstrichen und fett***
 - noch ein Punkt
 1. ein erster Punkt
 2. ein zweiter Punkt
-Hochgestellter^Text^ und Untergestellter~Text~
+
+~Text durchgestrichen~
