@@ -1,7 +1,7 @@
 # DH_Workshop
 
 ## Aufgabe 1
-Schauen Sie sich den nachfolgenden Text in der 
+Schauen Sie sich den nachfolgenden Text in der Code-Ansicht an. Welche Prinzipien entdecken Sie?
 
 In diesem Workshop werden Grundlagen für **digitale Editionen** aus einer Bibliotheksperspektive vorgestellt.
 ## Eine Unterüberschrift
