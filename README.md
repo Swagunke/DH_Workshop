@@ -1,4 +1,8 @@
 # DH_Workshop
+
+## Aufgabe 1
+Schauen Sie sich den nachfolgenden Text in der 
+
 In diesem Workshop werden Grundlagen für **digitale Editionen** aus einer Bibliotheksperspektive vorgestellt.
 ## Eine Unterüberschrift
 Text in *kursiv*, in **fett** und in ***unterstrichen und fett*** 
