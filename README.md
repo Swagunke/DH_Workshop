@@ -4,6 +4,7 @@ In diesem Workshop werden Grundlagen für **digitale Editionen** aus einer Bibli
 Text in *kursiv*, in **fett** und in ***unterstrichen und fett*** 
 ## Eine Liste 
 - ein Punkt 
-- nich ein Punkt
+- noch ein Punkt
 1. ein erster Punkt
 2. ein zweiter Punkt
+Hochgestellter^Text^ und Untergestellter~Text~
