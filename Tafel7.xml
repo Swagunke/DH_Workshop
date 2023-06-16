@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title>Das Schloss in Weimar : seine Geschichte vom Brande 1774 bis zur Wiederherstellung 1804</title>
+         </titleStmt>
+         <publicationStmt>
+<p>https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=136303811</p>
+         </publicationStmt>
+         <sourceDesc>
+<p>https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00009817</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+Tafel 7. Der große Saal.
+         </head>
+         <p>
+<lb/>Dekorationsentwurf Clérisseaus von 1792. Probe aus den Blättern
+<lb/>dieses Künstlers. Die Darstellungsweise, wie die geschickte und fein‐
+<lb/>sinnige Verwendung der korinthischen Formen zeigen den Meister
+<lb/>von der vorteilhaftesten Seite. Die enggestellten Säulen und die
+<lb/>annähernde Gleichwertigkeit der beiden Geschosse hätten in der Aus-
+<lb/>führung wohl etwas klein gewirkt. Goethe sagte aber in einem Vor‐
+<lb/>trage mit Recht: „Die Risse des französischen Architekten Clérisseau,
+<lb/>zu Auszierung des großen Saals und der benachbarten Zimmer, sind
+<lb/>nicht so bekannt als sie es verdienten zu seyn und würden den‐
+<lb/>jenigen, die sich auf die Baukunst legen, in der Folge auch selbst
+<lb/>wegen der Zeichnungsart zu empfehlen seyn.“
+<lb/>
+         </p>
+      </body>
+  </text>
+</TEI>

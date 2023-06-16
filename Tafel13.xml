@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title>Das Schloss in Weimar : seine Geschichte vom Brande 1774 bis zur Wiederherstellung 1804</title>
+         </titleStmt>
+         <publicationStmt>
+<p>https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=136303811</p>
+         </publicationStmt>
+         <sourceDesc>
+<p>https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00009817</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+Tafel 13. Das neue Schloß.
+         </head>
+         <p>
+<lb/>Darstellung des Zustandes um 1804, als das Schloß eben wieder
+<lb/>in Benutzung genommen war. Das Original, eine getuschte Zeichnung,
+<lb/>die früher Goethe, neuerdings dem Maler Kraus zugeschrieben wird,
+<lb/>befindet sich im Goethe-National-Museum. Man sieht die Nord‐
+<lb/>und Ostfront des großen Östflügels in der noch heute bestehenden
+<lb/>Gestalt. Die Ostfront ist durch den höher geführten Zwischenbau
+<lb/>mit der Säulenhalle des Hauptgeschosses nach Arens’ Plane zu einer
+<lb/>einheitlichen Front zusammengezogen. Der Nordflügel verschwindet
+<lb/>ganz und von dem kurzen Westflügel erscheint nur eine Ecke.
+<lb/>Weiterhin sieht man links die zum westlichen Abschlusse des Hofes
+<lb/>und zur Verdeckung der dort noch befindlichen Baracken vorläufig
+<lb/>aufgeführte, bogengeschmückte Mauer.
+         </p>
+      </body>
+  </text>
+</TEI>

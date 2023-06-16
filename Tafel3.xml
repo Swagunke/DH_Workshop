@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title>Das Schloss in Weimar : seine Geschichte vom Brande 1774 bis zur Wiederherstellung 1804</title>
+         </titleStmt>
+         <publicationStmt>
+<p>https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=136303811</p>
+         </publicationStmt>
+         <sourceDesc>
+<p>https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00009817</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+Tafel 3. Die Wilhelmsburg
+         </head>
+         <p>
+<lb/>Grundriß, nach der in der Großherzoglichen Bibliothek auf-
+<lb/>bewahrten, in großem Maßstabe gezeichneten Aufnahme von Steiner
+<lb/>von 1790: „Es scheint der Bau Controlleur will zeigen, daß er auch
+<lb/>genau seyn kann“, meinte Goethe zu dieser Arbeit, die auf Anlaß
+<lb/>des Baumeisters Arens vorgenommen wurde, um eine feste Unterlage
+<lb/>für dessen Entwürfe zu schaffen. Man sieht die bei dem Brande
+<lb/>stehengebliebenen massiven Mauern des Gebäudes, dessen ganze
+<lb/>innere Einrichtung vernichtet war.
+<lb/>Die beiden vom Hornstein herrührenden rechteckigen, fast
+<lb/>quadratischen Pavillons des Ostflügels treten noch deutlich hervor.
+<lb/>Im südlichen liegt die „Himmelsburg“, die Schloßkirche, im Außeren
+<lb/>nicht weiter erkennbar; ein quer von Osten nach Westen hindurch-
+<lb/>gehendes Schiff, im westlichen Teile erweitert und von einer Empore
+<lb/>umzogen. Darunter im Erd- und Kellergeschosse lag die Fürstengruft.
+<lb/>In dem zurückspringenden Zwischenbau befand sich nur ein
+<lb/>kleinerer Saal und der in zwei parallelen Läufen aufsteigende, lang-
+<lb/>gestreckte „Aufritt“.
+<lb/>Im nördlichen Pavillon und mit seinen halbkreisförmigen Ab‐
+<lb/>schlüssen darüber hinausreichend lag der große Festsaal, der „schöne
+<lb/>Saal“, auch „Sprachsaal“ genannt. Musäus rühmt seine prächtige
+<lb/>Decke und vortreffliche Stuckaturarbeit und erwähnt 50 Säulen, die
+<lb/>einen Korridor, d. h. wohl eine umlaufende Galerie trugen. Darüber
+<lb/>war eine kleine, zehn- oder zwölfseitige, anscheinend hölzerne Kuppel
+<lb/>auf das Dach aufgesetzt. Darunter aber, im Erdgeschoß, war das
+<lb/>„Opernhaus“ eingerichtet.
+<lb/>Es folgt der auf der Nordostecke des Gebäudes gelegene, schon
+<lb/>zum Nordflugel, dem „Corps de Logis“, gehörige Rittersaal. An ihn
+<lb/>schließen sich in bunter Folge die Wohnraume der fürstlichen Familie
+<lb/>an, die auch noch in den nur kurzen Westflügel hineinreichen.
+<lb/>Unter ihnen ist die „Galerie“ besonders zu erwähnen, die in einer
+<lb/>Länge von acht Fensterachsen die Mitte der Nordfront einnahm.
+<lb/>Kleine Zwischenwände, ebenso die im allgemeinen recht bedeutende
+<lb/>Stärke der Hauptwände sind zur Herstellung von unauffälligen Ver-
+<lb/>bindungen und Geheimkammern benutzt. Fast sämtliche Treppen
+<lb/>sind als runde oder ovale Wendeltreppen angelegt.
+<lb/>Küchen-, Wirtschafts- und Vorratsräume befanden sich in dem
+<lb/>auf der Zeichnung nicht mitdargestellten niedrigeren Teile des West‐
+<lb/>flügels.
+         </p>
+      </body>
+  </text>
+</TEI>

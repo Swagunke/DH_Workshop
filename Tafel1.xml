@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title>Das Schloss in Weimar : seine Geschichte vom Brande 1774 bis zur Wiederherstellung 1804</title>
+         </titleStmt>
+         <publicationStmt>
+<p>https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=136303811</p>
+         </publicationStmt>
+         <sourceDesc>
+<p>https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00009817</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+Tafel 1. Der Hornstein.
+         </head>
+         <p>
+<lb/>Nach dem Merianschen Stiche. Die Burg ist rings von einem
+<lb/>Graben umzogen. Der Östflügel besteht noch aus zwei getrennten,
+<lb/>rechteckigen Pavillons mit dazwischenliegendem Hof oder niedrigem
+<lb/>Zwischenbau. Hier wurde 1569 der „Aufritt“ eingebaut. Im nörd-
+<lb/>lichen Pavillon lag der große Saal, im südlichen die Kapelle. (Die
+<lb/>über letzterem sichtbare Kirche mit Turm ist die Stadtkirche St. Peter
+<lb/>und Paul und gehört nicht zum Schlosse.) Nach Süden zu begrenzt
+<lb/>den Schloßhof eine in unregelmäßigem Bogen geführte, zinnengekrönte
+<lb/>Mauer, hinter der niedrige Wirtschaftsgebäude liegen und über die
+<lb/>der (noch heute erhaltene) Turm aufragt. Ein gedeckter Gang auf
+<lb/>Pfeilern führt zu den in der Stadt gelegenen Baulichkeiten hinüber.
+<lb/>Das Gewässer des südlich gelegenen Küchteiches steht durch einen
+<lb/>überbrückten Durchstich mit dem Burggraben in Verbindung. Im
+<lb/>Vordergrunde die Ilm. — Die Zahlen bedeuten nach Merian: 1 Horn-
+<lb/>stein, 2 das mittlere Schloß, 5 St. Peter und Paul, 6 altes Rathaus,
+<lb/>10 Erfurter Tor, 13 Reithaus, 14 Ballhaus, 15 fürstl. Baumgarten,
+<lb/>16 Ilmfluß, 17 Gaberndorf, 19 Ettersberg. — Die Darstellung zeigt
+<lb/>offenbare Ungenauigkeiten, ist aber als ältestes erhaltenes Bild der
+<lb/>Burg von Wert. Vorhandene Lagepläne lassen erkennen, daß mit
+<lb/>der Zeit manche Änderungen daran vorgenommen wurden.
+<lb/>Anscheinend hat sich Goethe in seinem Wilhelm Meister von
+<lb/>diesem Bilde beeinflussen lassen, wenn er (Buch 7, Kapitel 1) Lotharios
+<lb/>Wohnung schildert: „Ein altes unregelmäßiges Schloß mit einigen
+<lb/>Türmen und Giebeln schien die erste Anlage dazu gewesen zu sein;
+<lb/>allein noch unregelmäßiger waren die neuen Angebäude, die, teils
+<lb/>nah, teils in einiger Entfernung davon errichtet, mit dem Haupt‐
+<lb/>gebäude durch Galerien und bedeckte Gänge zusammenhingen. Alle
+<lb/>außere Symmetrie, jedes architektonische Ansehen schien dem Be‐
+<lb/>dürfnis der inneren Bequemlichkeit aufgeopfert zu sein.“  
+         </p>
+      </body>
+  </text>
+</TEI>

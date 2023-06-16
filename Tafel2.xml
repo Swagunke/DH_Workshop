@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+<title>Das Schloss in Weimar : seine Geschichte vom Brande 1774 bis zur Wiederherstellung 1804</title>
+         </titleStmt>
+         <publicationStmt>
+<p>https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=136303811</p>
+         </publicationStmt>
+         <sourceDesc>
+<p>https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00009817</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+Tafel 2. Die Wilhelmsburg.
+         </head>
+         <p>
+<lb/>Lageplan nach einer Aufnahme Steiners von 1789. „Ein Ge‐
+<lb/>müse- und Baumgarten drang bis an die Häuser hinan, und kleine
+<lb/>nutzbare Gärten waren selbst in den Zwischenräumen angelegt.“
+<lb/>Auch diese Schilderung Goethes scheint hier ihr Vorbild gehabt zu
+<lb/>haben. Die den Hof südlich begrenzenden Bauten bilden eine ganz
+<lb/>unregelmäßige, verworrene Masse. Da lagen die Kapaunenstopferei (G),
+<lb/>das Kalchhaus (H) und die Holzställe (K) dicht neben der fürst-
+<lb/>lichen Regierung (L und O), dem Oberkonsistorium (P) und den
+<lb/>Bauoffiziantenwohnungen (O). Unmittelbar heran- und dazwischen‐
+<lb/>geschoben aber waren der Hofküchengarten (J), die Gärten des
+<lb/>Schloßvogts (M) und der Bauoffizianten (Y). 
+<lb/>Das Schloßgebäude selbst hat Steiner „mit italienischer Dachung“
+<lb/>gezeichnet, die es nie gehabt hat. Goethes Lieblingsgedanke, bei
+<lb/>dem Wiederaufbau eine solche Dachung auszuführen, mußte aus
+<lb/>praktischen Gründen aufgegeben werden. Der Aufritt (D) ist in
+<lb/>seiner Lage und turmartigen Hochführung offenbar auch nur nach
+<lb/>einem Steinerschen Entwurfe eingetragen worden. Seine frühere
+<lb/>wirkliche Lage läßt sich aus dem Grundrisse der Wilhelmsburg
+<lb/>(Tafel 3) entnehmen: beim Neubau kam er in Fortfall.
+<lb/>Der westliche Flügel, dessen Wiederaufbau zunächst nicht in
+<lb/>Aussicht genommen war, ist nur in den Umfassungsmauern gezeichnet.
+<lb/>Ring- und Verteidigungsmauer und der umschließende Graben
+<lb/>waren noch ringsum erhalten.
+         </p>
+      </body>
+  </text>
+</TEI>
